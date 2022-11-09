@@ -12,7 +12,7 @@ Trata-se de uma aplicação com estilização simples no qual dediquei-me a faze
 
 Estou disponibilizando minhas credenciais de acesso da [NewsAPI](https://newsapi.org/) no arquivo `.env.local` para facilitar na hora colocar o app para funcionar.
 
-##### OBS: NodeJs e GIT devem está instalado em sua máquina.
+##### OBS: NodeJs e GIT devem estar instalado em sua máquina.
 
 Para rodar projeto basta clonar o repositório `https://github.com/zeerlen/breaking-news.git`, logo em seguida instalar às dependências com `npm install` no terminal do diretório raiz do projeto, depois rodar `npm rum dev` e acessar `http://localhost:3000`.
 
