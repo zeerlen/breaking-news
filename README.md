@@ -11,5 +11,5 @@ Trata-se de uma aplicação com estilização simples no qual dediquei-me a faze
 ![Index Desktop](./screenshots/index.png "Página Inicial")
 ![Artigo Desktop](./screenshots/article.png "Manchete Aberta")
 
-![Index Mobile](./screenshots/mobile_index.png "Página Inicial") ![Artigo Mobile](./screenshots/mobile_article.png "Manchete Aberta") ![404 Mobile](./screenshots/mobile_404.png "Error 404") 
+![Index Mobile](./screenshots/mobile_index.png "Página Inicial") ![Artigo Mobile](./screenshots/mobile_article.png "Manchete Aberta") ![404 Mobile](./screenshots/mobile_404.PNG "Error 404") 
 
