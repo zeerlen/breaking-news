@@ -14,7 +14,7 @@ Estou disponibilizando minhas credenciais de acesso da [NewsAPI](https://newsapi
 
 ##### OBS: NodeJs e GIT devem estar instalado em sua máquina.
 
-Para rodar projeto basta clonar o repositório `https://github.com/zeerlen/breaking-news.git`, logo em seguida instalar às dependências com `npm install` no terminal do diretório raiz do projeto, depois rodar `npm rum dev` e acessar `http://localhost:3000`.
+Para rodar projeto basta clonar o repositório `https://github.com/zeerlen/breaking-news.git`, logo em seguida instalar às dependências com `npm install` no terminal do diretório raiz do projeto, depois rodar `npm run dev` e acessar `http://localhost:3000`.
 
 API usada na aplicação tem bloqueio no cors para uso free (acesso apenas via `localhost`) enviabilizando deploy em qualquer plaforma de hospedagem como o Vercel por exemplo, porém para fins de desenvolvimento (acadêmico) e testes via `localhost` funciona muito bem.
 
