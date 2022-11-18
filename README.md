@@ -16,7 +16,7 @@ Estou disponibilizando minhas credenciais de acesso da [NewsAPI](https://newsapi
 
 Para rodar projeto basta clonar o repositório `https://github.com/zeerlen/breaking-news.git`, logo em seguida instalar às dependências com `npm install` no terminal do diretório raiz do projeto, depois rodar `npm run dev` e acessar `http://localhost:3000`.
 
-API usada na aplicação tem bloqueio no cors para uso free (acesso apenas via `localhost`) enviabilizando deploy em qualquer plaforma de hospedagem como o Vercel por exemplo, porém para fins de desenvolvimento (acadêmico) e testes via `localhost` funciona muito bem.
+API usada na aplicação tem bloqueio no cors para uso free (acesso apenas via `localhost`) enviabilizando deploy em qualquer plataforma de hospedagem como o Vercel, porém para fins de desenvolvimento (acadêmico) e testes via `localhost` funciona muito bem.
 
 Note que a API pode sim funcionar com chamadas externas sem ser via `localhost`, porém a um custo envolvido para adquirir um plano premium. Para mais informações acesse [NewsAPI](https://newsapi.org/).
 
